@@ -30,7 +30,6 @@ const App = () => {
 
         {/* {Area de insercao} */}
 
-        {/* {Tabela de itens} */}
         <TableArea list={filteredList} />
       </Body>
     </Container>

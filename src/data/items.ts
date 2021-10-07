@@ -2,7 +2,7 @@ import { Item } from '../types/Item'
 
 export const items: Item[] = [
   {
-    date: new Date(2021, 9, 15),
+    date: new Date(2021, 9, 5),
     category: 'food',
     title: 'McDonalds',
     value: 32.12
